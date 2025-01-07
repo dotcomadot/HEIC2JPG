@@ -34,7 +34,7 @@ Displays conversion progress dynamically in the terminal.
 Usage
 
 Save the Script:
-Save the Python script as heic_to_jpg.py.
+Save the Python script as heic2jpeg.py.
 
 Run the Script:
 Use the command line to execute the script with the required arguments.
@@ -49,5 +49,5 @@ heic_dir (required): The path to the directory containing HEIC images.
 
 Example
 
-python heic_to_jpg.py /path/to/heic/images -q 90 -w 8
+python heic2jpeg.py /path/to/heic/images -q 90 -w 8
 
